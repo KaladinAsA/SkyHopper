@@ -24,3 +24,8 @@ All in-game sound effects were crafted by myself with using the SFXR software. T
 ## Feedback
 
 This project was created to see my skills after six months of studying Python. Your feedback is highly valued and will contribute to further improvements. Feel free to explore the code, report issues, or suggest enhancements.
+
+## Screenshot
+![Skyhopper Screenshot 2023 10 05 - 17 22 08 21](https://github.com/KaladinAsA/SkyHopper/assets/143271029/75ff5770-8fe1-4826-91d2-7b7f38103966)
+![Skyhopper Screenshot 2023 10 05 - 17 22 14 11](https://github.com/KaladinAsA/SkyHopper/assets/143271029/1b84ccf0-9475-4e6a-8bae-229106824a0b)
+

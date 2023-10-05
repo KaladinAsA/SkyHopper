@@ -12,7 +12,7 @@ class Main:
         pygame.mixer.init(buffer=512)
         pygame.init()
         self.screen = pygame.display.set_mode((WITDH, HIGHT))
-        pygame.display.set_caption('tresure hunter')
+        pygame.display.set_caption('SkyHopper')
         self.clock = pygame.time.Clock()
         self.game_state = 'main_menu'
         # menue setup

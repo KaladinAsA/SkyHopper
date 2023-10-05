@@ -2,7 +2,8 @@
 
 SkyHopper is an open-source jump-based platformer game inspired by the classic Doodle Jump. It's written in Python and to test myself and what i learn with python so far.
 
-![SkyHopper Screenshot](./SkyHopper/Desktop Screenshot 2023.10.05 - 16.51.24.55.png)
+![SkyHopper Screenshot](./SkyHopper
+/Desktop Screenshot 2023.10.05 - 16.51.24.55.png)
 
 ## License
 

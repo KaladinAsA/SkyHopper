@@ -368,10 +368,6 @@ class Camera(pygame.sprite.Group):
         h = self.screen.get_size()[1] - (self.camera_border['top'] + self.camera_border['bottom'])
         self.camera_rect = pygame.Rect(l,t,w,h)
     
-    def target_camera(self,target):
-        '''camera that fucos on target'''
-        self.offset.y = target.rect.centery - self.half_hight
-    
     def box_target_camera(self,target):
         '''camera that draw a box and when rech on it will move'''
         if target.rect.top < self.camera_rect.top:

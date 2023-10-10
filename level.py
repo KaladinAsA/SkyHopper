@@ -68,11 +68,10 @@ class Level:
         try:
             with open("high_score.json", "r") as file:
                 self.high_score = json.load(file)
-                print('load')
         # if did not finde anything return 0
         except FileNotFoundError:
             self.high_score = 0
-            print('o')
+    
     
     def import_image(self):
         '''saving diffrent images in to memory'''

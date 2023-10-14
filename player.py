@@ -72,7 +72,7 @@ class Player(pygame.sprite.Sprite):
             self.hitbox.bottom = HIGHT -50
             self.direction.y = - JUMP_HIGHT
 
-    def animatie(self):
+    def animation(self):
         '''set frames by player status'''
         aniamtion = self.animtion[self.status]
         self.frame_index += 0.2
@@ -86,6 +86,6 @@ class Player(pygame.sprite.Sprite):
     def update(self):
         self.input()
         self.get_status()
-        self.animatie()
+        self.animation()
         self.gravity()
         self.collisoin()

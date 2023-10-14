@@ -1,8 +1,9 @@
 # SkyHopper - A Doodle Jump-inspired Game
 
-SkyHopper is an open-source jump-based platformer game inspired by the classic Doodle Jump. It's written in Python and developed as a showcase of the creator's programming skills.
+SkyHopper is an open-source jump-based platformer game inspired by the classic Doodle Jump. It's written in Python and to test myself and what i learn with python so far it took me 44 days to make it.
 
-![JumpMania Screenshot](screenshot.png)
+
+![SkyHopper Screenshot](https://github.com/KaladinAsA/SkyHopper/assets/143271029/afe315a9-96b5-4765-81fe-49b6bc15c315)
 
 ## License
 
@@ -22,4 +23,9 @@ All in-game sound effects were crafted by myself with using the SFXR software. T
 
 ## Feedback
 
-This project was created to see my skills after six months of studying Python. Your feedback is highly valued and will contribute to further improvements. Feel free to explore the code, report issues, or suggest enhancements.
+This project was created in 44 days to see my skills after six months of studying Python. Your feedback is highly valued and will contribute to further improvements. Feel free to explore the code, report issues, or suggest enhancements.
+
+## Screenshot
+![Skyhopper Screenshot 2023 10 05 - 17 22 08 21](https://github.com/KaladinAsA/SkyHopper/assets/143271029/75ff5770-8fe1-4826-91d2-7b7f38103966)
+![Skyhopper Screenshot 2023 10 05 - 17 22 14 11](https://github.com/KaladinAsA/SkyHopper/assets/143271029/1b84ccf0-9475-4e6a-8bae-229106824a0b)
+
